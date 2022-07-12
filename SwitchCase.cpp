@@ -20,7 +20,7 @@ int main(){
 
 }*/
 
-/*Operação de vários casos*/
+/*Operação de vários casos
 int main(){
     int opcao;
      
@@ -44,4 +44,4 @@ int main(){
         break;
     }
     printf("\nFinal do Codigo!\n");
-}
+}*/
